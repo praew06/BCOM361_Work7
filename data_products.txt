@@ -1,0 +1,6 @@
+1,pepsi,1,1,29
+2,fried potatoes,1,1,59
+3,cookkie,2,2,30
+4,cake,2,2,40
+5,Fried chicken,2,2,50
+6,donut,1,1,22
